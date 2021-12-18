@@ -14,6 +14,11 @@
       "title": "Second note",
       "text": "test",
       "id": "2"
+    },
+    {
+      "title": "New",
+      "text": "Client test",
+      "id": "3"
     }
   ]
 }
